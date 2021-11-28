@@ -1,0 +1,41 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,
+Filename: cbpp18stt04.csv,,,,,,,,,,,,,,,,
+"Table 4. Residents who experienced nonfatal threats or use of force during their most recent police-initiated contact or traffic-accident contact, by resident perception of force as necessary or excessive and demographic characteristics, 2015 and 2018",,,,,,,,,,,,,,,,
+"Report title: Contacts Between Police and the Public, 2018 - Statistical Tables  NCJ 255730",,,,,,,,,,,,,,,,
+"Data Source: Bureau of Justice Statistics, Police-Public Contact Survey, 2015 and 2018",,,,,,,,,,,,,,,,
+"Authors: Erika Harrell, Ph.D., and Elizabeth Davis, BJS Statisticians",,,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,,,,,,,,,,
+Date of version: 12/17/2020,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+"Table 4. Residents who experienced nonfatal threats or use of force during their most recent police-initiated contact or traffic-accident contact, by resident perception of force as necessary or excessive and demographic characteristics, 2015 and 2018",,,,,,,,,,,,,,,,
+,,2015,,,,,,,,2018,,,,,,
+,,"Most recent police-initiated or traffic-accident contact/a,b",,,,,,,,"Most recent police-initiated or traffic-accident contact/a,b",,,,,,
+,,,,,Of those who experienced force—,,,,,,,,Of those who experienced force—,,,
+Demographic characteristic,,Number,Percent experienced force/c,,Perceived force as necessary/d,,Perceived force as excessive/d,,,Number,Percent experienced force/c,,Perceived force as necessary/d,,Perceived force as excessive/d,
+,Total,"30,195,900",3.3,%,30.2,%,48.4,%,,"31,129,900",2.8,%,27.5,%,50.9,%
+Sex,,,,,,,,,,,,,,,,
+,Male*,"16,522,500",4.4,%,28.2,%,50.1,%,,"16,601,800",4.2,%,26,%,52.9,%
+,Female,"13,673,400",1.8, †,36.2,,43.4,,,"14,528,100",1.1, †,34,,42.5,
+Race/ethnicity,,,,,,,,,,,,,,,,
+,White/e*,"20,282,400",2.4,%,32.4,%,42.7,%,,"20,593,600",2,%,31.7,%,44.3,%
+,Black/e,"3,886,200",5.2, †,32,,59.9, ‡,,"3,713,800",5.3, †,25.8,,62.9, †
+,Hispanic,"3,986,400",5.1, †,20.8,,52.5,,,"4,541,900",4.8, †,16.9, †,53.7,
+,"Other/e,f","2,040,900",4.7, †,35.5, !,43.8,,,"2,280,600",1.9,,50.1, ‡ !,43.4, !
+Age,,,,,,,,,,,,,,,,
+,16-17,"988,900",2.5,% !,35.3,% !,22.1,% !,,"871,200",3.9,% !,30.4,% !,62,% !
+,18-24*,"6,107,600",4.3,,28.2,,49.2,,,"5,895,300",3.5,,16.3,,59.4,
+,25-44,"11,757,400",4,,34.1,,44,,,"12,311,300",3.6,,30.9, †,46.8,
+,45-64,"8,422,100",2.6, †,24.4,,58.5,,,"8,449,100",2, †,33.9, †,47.7,
+,65 or older,"2,919,900",0.1, † !,<0.1, † !,<0.1, † !,,"3,603,000",0.4, † !,4.7, ‡ !,63.1, !
+Note: Details may not sum to totals due to rounding. See appendix table 4 for standard errors.,,,,,,,,,,,,,,,,
+*Comparison group.,,,,,,,,,,,,,,,,
+†Difference with comparison group is significant at the 95% confidence interval.,,,,,,,,,,,,,,,,
+‡Difference with comparison group is significant at the 90% confidence interval.,,,,,,,,,,,,,,,,
+"! Interpret with caution. Estimate is based on 10 or fewer sample cases, or coefficient of variation is greater than 50%.",,,,,,,,,,,,,,,,
+"a/Includes persons stopped by police during the last 12 months for whom the most recent contact involved being stopped by police in a street stop, stopped as a driver or passenger in a traffic stop, arrested, in a traffic accident reported to police, or approached by police for another reason.",,,,,,,,,,,,,,,,
+b/Denominator includes approximately 0.3% of respondents who had missing data on the most recent contact due to recoding of contacts originally classified as “other-specify.” See Methodology.,,,,,,,,,,,,,,,,
+"c/Includes threatening use of force, pushing, grabbing, handcuffing, hitting, kicking, using chemical or pepper spray, using an electroshock weapon, or pointing a gun during the most recent police-initiated contact or traffic-accident contact. In 2018, but not in 2015, force also included shooting a gun. In 2018, 0.3% of persons had a gun pointed at them or were shot by a gun during their most recent police-initiated contact or traffic-accident contact.",,,,,,,,,,,,,,,,
+"d/Respondents who reported experiencing force during their most recent police-initiated contact or traffic-accident contact were asked two questions: if they felt that the actions were necessary and if they felt that any of the actions used against them were excessive. Respondents could respond “yes” to both questions, “no” to both questions, or “yes” to one question and “no” to the other.",,,,,,,,,,,,,,,,
+"e/Excludes persons of Hispanic origin (e.g., “white” refers to non-Hispanic whites and “black” refers to non-Hispanic blacks).",,,,,,,,,,,,,,,,
+"f/Includes Asians, Native Hawaiians, other Pacific Islanders, American Indians, Alaska Natives, and persons of two or more races.",,,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, Police-Public Contact Survey, 2015 and 2018. ",,,,,,,,,,,,,,,,

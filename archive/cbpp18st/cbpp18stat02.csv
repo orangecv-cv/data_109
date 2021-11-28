@@ -1,0 +1,28 @@
+Bureau of Justice Statistics,,,,,,,,
+Filename: cbpp18stat02.csv,,,,,,,,
+"Appendix table 2. Standard errors for table 2: Residents with police contact, by reason for contact, 2015 and 2018",,,,,,,,
+"Report title: Contacts Between Police and the Public, 2018 - Statistical Tables  NCJ 255730",,,,,,,,
+"Data Source: Bureau of Justice Statistics, Police-Public Contact Survey, 2015 and 2018",,,,,,,,
+"Authors: Erika Harrell, Ph.D., and Elizabeth Davis, BJS Statisticians",,,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,,
+Date of version: 12/17/2020,,,,,,,,
+,,,,,,,,
+"Appendix table 2. Standard errors for table 2: Residents with police contact, by reason for contact, 2015 and 2018",,,,,,,,
+,,2015,,,,2018,,
+Reason for contact,,Number,Percent,,,Number,Percent,
+,Any,"998,696",0.3,%,,"1,073,740",0.3,%
+Resident-initiated contact,,"560,931",0.19,%,,"694,308",0.21,%
+,Reported possible crime,"383,674",0.13,,,"412,694",0.13,
+,Reported non-crime emergency,"259,485",0.09,,,"249,595",0.09,
+,Reported non-emergency,~,~,,,"286,859",0.1,
+,Block watch,"117,969",0.05,,,"98,499",0.04,
+,Other,"105,856",0.04,,,"49,544",0.02,
+Traffic-accident contact,,"216,355",0.08,%,,"232,308",0.08,%
+Police-initiated contact,,"617,902",0.2,%,,"593,005",0.18,%
+,Driver during a traffic stop,"447,052",0.16,,,"443,859",0.16,
+,Passenger during a traffic stop,"223,034",0.08,,,"186,564",0.07,
+,Street stop,"131,084",0.05,,,"148,721",0.06,
+,Arrested only,"67,043",0.03,,,"43,045",0.02,
+,Other,"106,102",0.04,,,"151,032",0.05,
+~Not applicable.,,,,,,,,
+"Source: Bureau of Justice Statistics, Police-Public Contact Survey, 2015 and 2018.",,,,,,,,

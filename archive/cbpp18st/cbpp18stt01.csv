@@ -1,0 +1,39 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,,,,
+Filename: cbpp18stt01.csv,,,,,,,,,,,,,,,,,,
+"Table 1. Number and percent of U.S. residents age 16 or older with any police contact, by type of contact and demographic characteristics, 2018",,,,,,,,,,,,,,,,,,
+"Report title: Contacts Between Police and the Public, 2018 - Statistical Tables  NCJ 255730",,,,,,,,,,,,,,,,,,
+"Data Source: Bureau of Justice Statistics, Police-Public Contact Survey, 2018",,,,,,,,,,,,,,,,,,
+"Authors: Erika Harrell, Ph.D., and Elizabeth Davis, BJS Statisticians",,,,,,,,,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,,,,,,,,,,,,
+Date of version: 12/17/2020,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+"Table 1. Number and percent of U.S. residents age 16 or older with any police contact, by type of contact and demographic characteristics, 2018",,,,,,,,,,,,,,,,,,
+,,,,Any contact,,,,Police-initiated contact,,,,Resident-initiated contact,,,,Traffic-accident contact,,
+Demographic characteristic,,U.S. population age 16 or older,,Number,Percent,,,Number,Percent,,,Number,Percent,,,Number,Percent,
+,Total ,"259,316,200",,"61,542,300",23.7,%,,"28,880,900",11.1,%,,"35,468,500",13.7,%,,"8,882,000",3.4,%
+Sex,,,,,,,,,,,,,,,,,,
+,Male*,"125,725,800",,"30,467,400",24.2,%,,"15,707,300",12.5,%,,"16,443,500",13.1,%,,"4,141,300",3.3,%
+,Female,"133,590,400",,"31,074,900",23.3, †,,"13,173,600",9.9, †,,"19,025,000",14.2, †,,"4,740,700",3.5, ‡
+Race/ethnicity,,,,,,,,,,,,,,,,,,
+,White/a*,"163,551,000",,"42,525,700",26,%,,"19,216,500",11.7,%,,"25,386,330",15.5,%,,"5,885,200",3.6,%
+,Black/a,"30,973,900",,"6,545,700",21.1, †,,"3,393,800",11,,,"3,280,700",10.6, †,,"1,086,900",3.5,
+,Hispanic,"43,135,000",,"8,238,400",19.1, †,,"4,221,800",9.8, †,,"4,449,900",10.3, †,,"1,222,600",2.8, †
+,"Other/a,b","21,656,300",,"4,232,500",19.5, †,,"2,048,900",9.5, †,,"2,351,600",10.9, †,,"687,300",3.2,
+Age,,,,,,,,,,,,,,,,,,
+,16-17,"8,046,500",,"1,143,500",14.2,% †,,"765,300",9.5,% †,,"349,100",4.3,% †,,"223,100",2.8,% †
+,18-24*,"29,941,900",,"8,859,700",29.6,,,"5,730,700",19.1,,,"3,984,200",13.3,,,"1,769,400",5.9,
+,25-44,"86,126,600",,"23,518,700",27.3, †,,"11,791,500",13.7, †,,"13,314,800",15.5, †,,"3,255,500",3.8, †
+,45-64,"83,540,200",,"19,160,700",22.9, †,,"7,744,300",9.3, †,,"12,075,100",14.5, ‡,,"2,355,300",2.8, †
+,65 or older,"51,661,000",,"8,859,600",17.1, †,,"2,849,000",5.5, †,,"5,745,200",11.1, †,,"1,278,700",2.5, †
+Household income,,,,,,,,,,,,,,,,,,
+,"$24,999 or less*","48,322,500",,"11,112,600",23,%,,"5,487,200",11.4,%,,"6,339,000",13.1,%,,"1,624,500",3.4,%
+,"$25,000-$49,999","65,747,300",,"14,380,200",21.9,,,"6,973,400",10.6,,,"8,113,600",12.3,,,"2,014,700",3.1,
+,"$50,000-$74,999","47,676,700",,"11,015,000",23.1,,,"5,228,700",11,,,"6,339,100",13.3,,,"1,570,000",3.3,
+,"$75,000 or more","97,569,600",,"25,034,500",25.7, †,,"11,191,700",11.5,,,"14,676,700",15, †,,"3,672,800",3.8, ‡
+"Note: Details may not sum to totals because respondents could indicate yes to multiple reasons. See appendix table 1 for standard errors. Missing data on annual household income was imputed. From July through December of 2018, 25% of persons age 16 or older in the NCVS sample had missing data on annual household income. For more information on imputation procedures, see National Crime Victimization Survey, 2016: Technical Documentation (NCJ 251442, BJS, December 2017).",,,,,,,,,,,,,,,,,,
+*Comparison group.,,,,,,,,,,,,,,,,,,
+†Difference with comparison group is significant at the 95% confidence interval.,,,,,,,,,,,,,,,,,,
+‡Difference with comparison group is significant at the 90% confidence interval.,,,,,,,,,,,,,,,,,,
+"a/Excludes persons of Hispanic origin (e.g., “white” refers to non-Hispanic whites and “black” refers to non-Hispanic blacks).",,,,,,,,,,,,,,,,,,
+"b/Includes Asians, Native Hawaiians, other Pacific Islanders, American Indians, Alaska Natives, and persons of two or more races.",,,,,,,,,,,,,,,,,,
+"Source: Bureau of Justice Statistics, Police-Public Contact Survey, 2018.",,,,,,,,,,,,,,,,,,

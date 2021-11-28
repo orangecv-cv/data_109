@@ -1,0 +1,27 @@
+Bureau of Justice Statistics,,,,,,,,,,,
+Filename: cbpp18stt05.csv,,,,,,,,,,,
+"Table 5. Percent of residents who experienced nonfatal threats or use of force during their most recent police-initiated contact or traffic-accident contact, by resident race or ethnicity and type of force, 2018",,,,,,,,,,,
+"Report title: Contacts Between Police and the Public, 2018 - Statistical Tables  NCJ 255730",,,,,,,,,,,
+"Data Source: Bureau of Justice Statistics, Police-Public Contact Survey, 2018",,,,,,,,,,,
+"Authors: Erika Harrell, Ph.D., and Elizabeth Davis, BJS Statisticians",,,,,,,,,,,
+Refer questions to: askbjs@usdoj.gov 202-307-0765,,,,,,,,,,,
+Date of version: 12/17/2020,,,,,,,,,,,
+,,,,,,,,,,,
+"Table 5. Percent of residents who experienced nonfatal threats or use of force during their most recent police-initiated contact or traffic-accident contact, by resident race or ethnicity and type of force, 2018",,,,,,,,,,,
+,,,,Race/ethnicity,,,,,,,
+Type of force/a,,Total,,White/b*,,Black/b,,Hispanic,,"Other/b,c",
+,Any,2.8,%,2,%,5.3,% †,4.8,% †,1.9,%
+Threat of force,,0.7,,0.5,,2, †,1.2, ‡,0.2, † !
+Handcuffing,,2.2,,1.6,,4.4, †,3.5, †,1.9,
+Pushing/grabbing/hitting/kicking,,0.7,,0.4,,1.6, †,1.4, †,0.8, !
+Spraying/shocking,,<0.1, !,0.1, !,<0.1 , !,<0.1, !,<0.1, !
+Pointing/shooting gun,,0.3,,0.1,,0.8, †,0.7, ‡ !,0.4, !
+Note: Details may not sum to totals because respondents could experience multiple types of force. See appendix table 5 for standard errors.,,,,,,,,,,,
+*Comparison group.,,,,,,,,,,,
+†Difference with comparison group is significant at the 95% confidence interval.,,,,,,,,,,,
+‡Difference with comparison group is significant at the 90% confidence interval.,,,,,,,,,,,
+"! Interpret with caution. Estimate is based on 10 or fewer sample cases, or coefficient of variation is greater than 50%.",,,,,,,,,,,
+a/Denominator includes approximately 0.3% of respondents who had missing data on the most recent contact due to recoding of contacts originally classified as “other-specify.” See Methodology. Denominator also includes less than 0.1% of respondents who indicated that police used some other type of force.,,,,,,,,,,,
+"b/Excludes persons of Hispanic origin (e.g., “white” refers to non-Hispanic whites and “black” refers to non-Hispanic blacks).",,,,,,,,,,,
+"c/Includes Asians, Native Hawaiians, other Pacific Islanders, American Indians, Alaska Natives, and persons of two or more races.",,,,,,,,,,,
+"Source: Bureau of Justice Statistics, Police-Public Contact Survey, 2018.",,,,,,,,,,,
